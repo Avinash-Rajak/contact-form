@@ -5,7 +5,7 @@ section{
 .row{
     display: flex;
     justify-content: center;
-    margin-bottom: 48px;
+   
 
 }
 
@@ -17,11 +17,11 @@ section{
     line-height: 1.2;
 }
 
-.hed3{
+.margin-right{
     margin-right: auto;
 }
 
-.ml-auto{
+.margin-left{
     margin-left: auto;
 }
 
@@ -30,10 +30,7 @@ section{
 }
 
 
-.row1{
-    display: flex;
-    flex-wrap: wrap;
-}
+
 .name{
     height: 50px;
 }
@@ -53,11 +50,11 @@ section{
 
 }
 
-.form-group1{
+/* .form-group1{
     border: none;
     border-bottom: 1px solid #ccc;
     width: 100%;
-}
+} */
 .msg{
     height: 183px;
 }
